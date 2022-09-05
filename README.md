@@ -2,10 +2,10 @@
 Customer Relationship Management refers to creating, developing, and maintaining a relationship with
 customers.
 Using CRM application user can create, update, and delete ticket, and user can see his tecket details.
-CRM application is integrated with Notifaction service. Notification service will provide information about ticket status through registered email to the user.
+CRM application is integrated with Notification service. Notification service will provide information about ticket status through registered email to the user.
 
  
- # TECHSTACK -
+ # TechStack -
 
 >Node.js,
 >Express Framework,
