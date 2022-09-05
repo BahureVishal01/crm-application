@@ -3,18 +3,13 @@ Customer Relationship Management refers to creating, developing, and maintaining
 customers.
 This crm application is integrated with Notifaction service.
 
-#Techstak-
- Node.js
- Express
- MongoDB
- Mongoose
  
  # TECHSTACK -
 
->Node.js
->Express Framework
->MongoDB
->Mongoose
+>Node.js,
+>Express Framework,
+>MongoDB,
+>Mongoose.
 
 ## FEATURES
 
