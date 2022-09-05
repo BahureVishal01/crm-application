@@ -1,7 +1,8 @@
 # crm-backend-web-application
 Customer Relationship Management refers to creating, developing, and maintaining a relationship with
 customers.
-This crm application is integrated with Notifaction service.
+Using CRM application user can create, update, and delete ticket, and user can see his tecket details
+CRM application is integrated with Notifaction service. Notification service will provide information about ticket status through registered email to the user.
 
  
  # TECHSTACK -
