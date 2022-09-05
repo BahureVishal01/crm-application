@@ -3,6 +3,7 @@ Customer Relationship Management refers to creating, developing, and maintaining
 customers.
 Using CRM application user can create, update, and delete ticket, and user can see his tecket details.
 CRM application is integrated with Notification service. Notification service will provide information about ticket status through registered email to the user.
+NotificationService code link : https://github.com/BahureVishal01/notificationServiceForCRM.git
 
  
  # TechStack -
