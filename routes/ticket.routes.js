@@ -9,4 +9,4 @@ module.exports = (app) => {
     app.get("/crm/api/v1/tickets/:id" ,[authJwt.verifyToken], ticketController.getOneTicket );
 
     app.put("/crm/api/v1/tickets/:id" ,[authJwt.verifyToken], ticketController.updateTicket );
-}
+};

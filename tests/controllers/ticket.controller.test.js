@@ -12,7 +12,7 @@
      title: "Test",
      ticketPriority: 4,
      description: "Test"
- }
+ };
  
  const updateRequestBody = {
      title: "Test",
@@ -187,4 +187,4 @@
          expect(res.status).toHaveBeenCalledWith(200);
  
      })
- })
+ });

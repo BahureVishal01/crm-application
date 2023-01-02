@@ -49,4 +49,4 @@ exports.ticketListResponse = (tickets) => {
         })
     })
     return ticketResult;
-}
+};

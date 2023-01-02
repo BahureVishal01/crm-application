@@ -29,7 +29,6 @@ verifyToken = (req, res, next)=>{
 }
 /**
  * if the passed access token is of admin or not
- * 
  */
 isAdmin = async (req, res, next)=>{
   /**

@@ -50,7 +50,6 @@
          mongoQueryObj.userStatus = userStatusReq;
      }
  
-     //console.log(mongoQueryObj);
  
      try {
          const users = await User.find(mongoQueryObj);
@@ -82,7 +81,6 @@
  
  }
 
- 
  /**
   * Updating the user - status , userType
   *    - only ADMIN should be allowed to do this
@@ -113,4 +111,4 @@
          })
      }
  
- }
+ };

@@ -3,7 +3,6 @@
  * mongodb which will be used for the
  * integration testing
  */
-
  const mongoose = require("mongoose");
 
  const { MongoMemoryServer } = require("mongodb-memory-server");
@@ -48,5 +47,5 @@
      if(mongod){
          await mongod.stop();
      }
- }
+ };
  

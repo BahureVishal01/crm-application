@@ -2,6 +2,7 @@
  * This conatains the constants to be used everywhere in the code
  */
 
+
 module.exports = {
     userTypes: {
         customer : "CUSTOMER",

@@ -209,4 +209,4 @@ exports.updateTicket = async (req, res) => {
     // Return the updated ticket
 
     return res.status(200).send(objectConverter.ticketResponse(updatedTicket));
-}
+};

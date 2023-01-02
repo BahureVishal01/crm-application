@@ -34,7 +34,7 @@
  
      if(!req.body.email){
          return res.status(400).send({
-             message : "Failed !  User email Id is not provided."
+             message : "Failed !  User email id is not provided."
          })
      }
  
@@ -69,7 +69,7 @@
          })
      }
    
-     next(); // give the controll to the controller
+     next(); 
  }
  
  module.exports = {

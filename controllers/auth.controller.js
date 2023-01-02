@@ -99,4 +99,4 @@ exports.signin = async(req, res)=>{
         accessToken: token
 
     })
-}
+};
