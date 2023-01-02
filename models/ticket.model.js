@@ -1,7 +1,6 @@
 /**
- * This file represents the scehma for the ticket resource
+ * This file represents the schima for the ticket resource
  */
-
 
  const mongoose = require("mongoose");
  const constants = require("../utils/constants");

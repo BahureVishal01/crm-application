@@ -10,7 +10,7 @@ NotificationService code link : https://github.com/BahureVishal01/notificationSe
  # TechStack -
 
 >Node.js,
->Express Framework,
+>ExpressJS Framework,
 >MongoDB,
 >Mongoose.
 
